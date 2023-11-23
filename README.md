@@ -36,3 +36,6 @@ You can install Transmission by downloading it from the official site.
 ### Plex Metadata agent
 You can use this agent for the metadata on Plex
 https://github.com/axfree/DaumMovie.bundle
+
+### This is Sample Plex screen
+<img width="1340" alt="Plex_capture" src="https://github.com/TommyJeon/rss_flexget/assets/129849472/2c538648-8034-40d5-bb52-fba5c8fdb7a3">
