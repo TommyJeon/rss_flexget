@@ -33,3 +33,6 @@ You can install Plex on AppStore and GooglePlay
 ### Transmission
 You can install Transmission by downloading it from the official site.
 
+### Plex Metadata agent
+You can use this agent for the metadata on Plex
+https://github.com/axfree/DaumMovie.bundle
